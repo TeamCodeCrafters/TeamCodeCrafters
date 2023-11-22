@@ -69,7 +69,7 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
     </td>
       <td align="center">
       <a href="https://github.com/PhelipiM">
-        <img src="phelipi.png" width="100px;"/><br>
+        <img src="phelipi.jpg" width="100px;"/><br>
         <sub>
           <b>Phelipi Moser</b>
         </sub>
@@ -77,7 +77,7 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
     </td>
       <td align="center">
       <a href="https://github.com/GuilhermeTamanini">
-        <img src="guilherme.png" width="100px;"/><br>
+        <img src="guilherme.jpg" width="100px;"/><br>
         <sub>
           <b>Guilherme Tamanini</b>
         </sub>
