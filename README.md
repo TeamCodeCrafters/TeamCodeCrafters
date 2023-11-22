@@ -45,7 +45,7 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
   <tr>
     <td align="center">
       <a href="https://github.com/aanappaula">
-        <img src="napaula.jpeg" width="100px;"/><br>
+        <img src="anap.jpg" width="100px;"/><br>
         <sub>
           <b>Ana Paula de Souza</b>
         </sub>
@@ -57,7 +57,7 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
       <a href="https://github.com/AnaLuizaDias">
         <img src="analu.jpg" width="100px;"/><br>
         <sub>
-          <b>William</b>
+          <b>Ana Luiza</b>
         </sub>
       </a>
     </td>
