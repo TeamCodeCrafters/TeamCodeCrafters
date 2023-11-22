@@ -51,15 +51,46 @@ see the GitHub documentation on [how to create a pull request](https://help.gith
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+   <td align="center">
       <a href="https://github.com/AnaLuizaDias">
         <img src="analu.jpg" width="100px;"/><br>
         <sub>
-          <b>Ana Luiza</b>
+          <b>Ana Luiza Dias </b>
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/luizatorrens">
+        <img src="analu.jpg" width="100px;"/><br>
+        <sub>
+          <b>Luiza Torrens</b>
+        </sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://github.com/PhelipiM">
+        <img src="phelipi.png" width="100px;"/><br>
+        <sub>
+          <b>Phelipi Moser</b>
+        </sub>
+      </a>
+    </td>
+      <td align="center">
+      <a href="https://github.com/GuilhermeTamanini">
+        <img src="guilherme.png" width="100px;"/><br>
+        <sub>
+          <b>Guilherme Tamanini</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FelipeRotermel">
+        <img src="felipe.jpg" width="100px;"/><br>
+        <sub>
+          <b>Felipe Rotermel </b>
+        </sub>
+      </a>
+    </td>
+
   </tr>
 </table>
