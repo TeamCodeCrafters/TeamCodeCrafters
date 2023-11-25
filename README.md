@@ -4,11 +4,9 @@
 
 # CodeCrafters
 
-## 👩🏾‍💻 Technologies
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+##  Links:
+- Backend: https://django-hackathon.4.us-1.fl0.io/
+- Frontend: https://hackathonifc.surge.sh/
 
 ## 💻 Requirements to install code
 
